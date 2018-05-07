@@ -1,0 +1,12 @@
+{
+    "name": "BO5",
+    "description": "Flows for BO5",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_bo5.json",
+            "credentialsFile": "flows_bo5_cred.json"
+        }
+    }
+}
