@@ -2,7 +2,20 @@
     "name": "BO5",
     "description": "Flows for BO5",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-dashboard": "2.9.1",
+        "node-red-contrib-bigtimer": "1.9.2",
+        "node-red-contrib-nut-ups": "1.0.2",
+        "node-red-contrib-avr-yamaha": "0.8.4",
+        "node-red-contrib-diode": "1.0.1",
+        "node-red-contrib-mi-devices": "1.1.1",
+        "node-red-contrib-modbus": "3.4.0",
+        "node-red-contrib-yeelight-compat-hue": "1.2.1",
+        "node-red-node-email": "1.6.0",
+        "node-red-node-rbe": "0.2.4",
+        "node-red-node-serialport": "0.6.5",
+        "node-red-node-sqlite": "0.2.3"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_bo5.json",
