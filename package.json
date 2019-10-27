@@ -3,7 +3,7 @@
     "description": "Flows for BO5",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-dashboard": "2.9.1",
+        "node-red-dashboard": "2.17.1",
         "node-red-contrib-bigtimer": "1.9.2",
         "node-red-contrib-nut-ups": "1.0.2",
         "node-red-contrib-avr-yamaha": "0.8.4",
